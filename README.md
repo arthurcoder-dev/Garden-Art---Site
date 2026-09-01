@@ -1,7 +1,7 @@
 # 🎨 Garden Art
 
 <p align="center">
-  <img src="assets/logo.png" alt="Garden Art Logo" width="300">
+  <img src="assets/bgardenart.png" width="300">
 </p>
 
 <p align="center">
